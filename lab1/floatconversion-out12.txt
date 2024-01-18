@@ -1,0 +1,399 @@
+top - 15:35:41 up  2:25,  1 user,  load average: 10,37, 6,97, 4,66
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,2 us,  0,8 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1754,4 free,   1475,7 used,    676,0 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2056,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18177 anna      20   0   64252   2152   1280 R  93,3   0,1   0:04.05 stress-+
+  18186 anna      20   0   64252   2024   1152 R  86,7   0,1   0:03.42 stress-+
+  18182 anna      20   0   64252   2152   1280 R  80,0   0,1   0:03.64 stress-+
+  18178 anna      20   0   64252   2152   1280 R  53,3   0,1   0:02.47 stress-+
+  18180 anna      20   0   64252   2152   1280 R  53,3   0,1   0:03.33 stress-+
+  18185 anna      20   0   64252   2152   1280 R  53,3   0,1   0:02.61 stress-+
+  18179 anna      20   0   64252   2152   1280 R  46,7   0,1   0:02.45 stress-+
+  18181 anna      20   0   64252   2152   1280 R  46,7   0,1   0:02.89 stress-+
+  18183 anna      20   0   64252   2152   1280 R  46,7   0,1   0:02.80 stress-+
+  18184 anna      20   0   64252   2024   1152 R  46,7   0,1   0:02.58 stress-+
+  18187 anna      20   0   64252   2152   1280 R  46,7   0,1   0:02.44 stress-+
+  18188 anna      20   0   64252   2024   1152 R  46,7   0,1   0:02.83 stress-+
+
+top - 15:35:42 up  2:25,  1 user,  load average: 10,58, 7,07, 4,71
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,6 us,  1,1 sy,  0,0 ni,  2,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1754,4 free,   1475,7 used,    676,0 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2056,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18177 anna      20   0   64252   2152   1280 R  75,0   0,1   0:04.80 stress-+
+  18180 anna      20   0   64252   2152   1280 R  68,0   0,1   0:04.01 stress-+
+  18182 anna      20   0   64252   2152   1280 R  65,0   0,1   0:04.29 stress-+
+  18186 anna      20   0   64252   2024   1152 R  64,0   0,1   0:04.06 stress-+
+  18179 anna      20   0   64252   2152   1280 R  63,0   0,1   0:03.08 stress-+
+  18183 anna      20   0   64252   2152   1280 R  61,0   0,1   0:03.41 stress-+
+  18178 anna      20   0   64252   2152   1280 R  52,0   0,1   0:02.99 stress-+
+  18187 anna      20   0   64252   2152   1280 R  48,0   0,1   0:02.92 stress-+
+  18188 anna      20   0   64252   2024   1152 R  48,0   0,1   0:03.31 stress-+
+  18181 anna      20   0   64252   2152   1280 R  47,0   0,1   0:03.36 stress-+
+  18184 anna      20   0   64252   2024   1152 R  47,0   0,1   0:03.05 stress-+
+  18185 anna      20   0   64252   2152   1280 R  47,0   0,1   0:03.08 stress-+
+
+top - 15:35:43 up  2:25,  1 user,  load average: 10,58, 7,07, 4,71
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 98,7 us,  0,8 sy,  0,0 ni,  0,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1754,4 free,   1475,7 used,    676,0 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2056,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18179 anna      20   0   64252   2152   1280 R  89,0   0,1   0:03.97 stress-+
+  18183 anna      20   0   64252   2152   1280 R  87,0   0,1   0:04.28 stress-+
+  18186 anna      20   0   64252   2024   1152 R  79,0   0,1   0:04.85 stress-+
+  18187 anna      20   0   64252   2152   1280 R  65,0   0,1   0:03.57 stress-+
+  18178 anna      20   0   64252   2152   1280 R  61,0   0,1   0:03.60 stress-+
+  18188 anna      20   0   64252   2024   1152 R  51,0   0,1   0:03.82 stress-+
+  18180 anna      20   0   64252   2152   1280 R  50,0   0,1   0:04.51 stress-+
+  18177 anna      20   0   64252   2152   1280 R  49,0   0,1   0:05.29 stress-+
+  18181 anna      20   0   64252   2152   1280 R  49,0   0,1   0:03.85 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,0   0,1   0:04.78 stress-+
+  18184 anna      20   0   64252   2024   1152 R  49,0   0,1   0:03.54 stress-+
+  18185 anna      20   0   64252   2152   1280 R  49,0   0,1   0:03.57 stress-+
+
+top - 15:35:44 up  2:26,  1 user,  load average: 10,58, 7,07, 4,71
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,9 us,  0,9 sy,  0,0 ni,  2,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1752,5 free,   1477,7 used,    676,0 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2054,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18178 anna      20   0   64252   2152   1280 R  85,0   0,1   0:04.45 stress-+
+  18183 anna      20   0   64252   2152   1280 R  81,0   0,1   0:05.09 stress-+
+  18187 anna      20   0   64252   2152   1280 R  77,0   0,1   0:04.34 stress-+
+  18186 anna      20   0   64252   2024   1152 R  62,0   0,1   0:05.47 stress-+
+  18182 anna      20   0   64252   2152   1280 R  51,0   0,1   0:05.29 stress-+
+  18179 anna      20   0   64252   2152   1280 R  50,0   0,1   0:04.47 stress-+
+  18181 anna      20   0   64252   2152   1280 R  50,0   0,1   0:04.35 stress-+
+  18184 anna      20   0   64252   2024   1152 R  50,0   0,1   0:04.04 stress-+
+  18177 anna      20   0   64252   2152   1280 R  49,0   0,1   0:05.78 stress-+
+  18188 anna      20   0   64252   2024   1152 R  49,0   0,1   0:04.31 stress-+
+  18180 anna      20   0   64252   2152   1280 R  48,0   0,1   0:04.99 stress-+
+  18185 anna      20   0   64252   2152   1280 R  48,0   0,1   0:04.05 stress-+
+
+top - 15:35:45 up  2:26,  1 user,  load average: 10,58, 7,07, 4,71
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,6 us,  0,8 sy,  0,0 ni,  2,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1752,5 free,   1477,7 used,    676,0 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2054,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18179 anna      20   0   64252   2152   1280 R  82,0   0,1   0:05.29 stress-+
+  18178 anna      20   0   64252   2152   1280 R  69,0   0,1   0:05.14 stress-+
+  18183 anna      20   0   64252   2152   1280 R  60,0   0,1   0:05.69 stress-+
+  18181 anna      20   0   64252   2152   1280 R  58,0   0,1   0:04.93 stress-+
+  18177 anna      20   0   64252   2152   1280 R  57,0   0,1   0:06.35 stress-+
+  18188 anna      20   0   64252   2024   1152 R  57,0   0,1   0:04.88 stress-+
+  18184 anna      20   0   64252   2024   1152 R  54,0   0,1   0:04.58 stress-+
+  18186 anna      20   0   64252   2024   1152 R  54,0   0,1   0:06.01 stress-+
+  18187 anna      20   0   64252   2152   1280 R  50,0   0,1   0:04.84 stress-+
+  18180 anna      20   0   64252   2152   1280 R  49,0   0,1   0:05.48 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,0   0,1   0:05.78 stress-+
+  18185 anna      20   0   64252   2152   1280 R  48,0   0,1   0:04.53 stress-+
+
+top - 15:35:46 up  2:26,  1 user,  load average: 10,58, 7,07, 4,71
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 97,2 us,  1,0 sy,  0,0 ni,  1,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1752,5 free,   1477,7 used,    676,0 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2054,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18180 anna      20   0   64252   2152   1280 R  75,0   0,1   0:06.23 stress-+
+  18187 anna      20   0   64252   2152   1280 R  70,0   0,1   0:05.54 stress-+
+  18183 anna      20   0   64252   2152   1280 R  64,0   0,1   0:06.33 stress-+
+  18181 anna      20   0   64252   2152   1280 R  61,0   0,1   0:05.54 stress-+
+  18179 anna      20   0   64252   2152   1280 R  57,0   0,1   0:05.86 stress-+
+  18185 anna      20   0   64252   2152   1280 R  56,0   0,1   0:05.09 stress-+
+  18184 anna      20   0   64252   2024   1152 R  54,0   0,1   0:05.12 stress-+
+  18188 anna      20   0   64252   2024   1152 R  54,0   0,1   0:05.42 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,0   0,1   0:06.27 stress-+
+  18177 anna      20   0   64252   2152   1280 R  47,0   0,1   0:06.82 stress-+
+  18178 anna      20   0   64252   2152   1280 R  46,0   0,1   0:05.60 stress-+
+  18186 anna      20   0   64252   2024   1152 R  46,0   0,1   0:06.47 stress-+
+
+top - 15:35:47 up  2:26,  1 user,  load average: 10,69, 7,15, 4,75
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 95,9 us,  0,5 sy,  0,0 ni,  3,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1759,8 free,   1477,0 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2061,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18178 anna      20   0   64252   2152   1280 R  82,2   0,1   0:06.43 stress-+
+  18184 anna      20   0   64252   2024   1152 R  82,2   0,1   0:05.95 stress-+
+  18185 anna      20   0   64252   2152   1280 R  62,4   0,1   0:05.72 stress-+
+  18186 anna      20   0   64252   2024   1152 R  55,4   0,1   0:07.03 stress-+
+  18188 anna      20   0   64252   2024   1152 R  55,4   0,1   0:05.98 stress-+
+  18182 anna      20   0   64252   2152   1280 R  54,5   0,1   0:06.82 stress-+
+  18179 anna      20   0   64252   2152   1280 R  53,5   0,1   0:06.40 stress-+
+  18181 anna      20   0   64252   2152   1280 R  49,5   0,1   0:06.04 stress-+
+  18183 anna      20   0   64252   2152   1280 R  49,5   0,1   0:06.83 stress-+
+  18187 anna      20   0   64252   2152   1280 R  49,5   0,1   0:06.04 stress-+
+  18180 anna      20   0   64252   2152   1280 R  47,5   0,1   0:06.71 stress-+
+  18177 anna      20   0   64252   2152   1280 R  46,5   0,1   0:07.29 stress-+
+
+top - 15:35:48 up  2:26,  1 user,  load average: 10,69, 7,15, 4,75
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,9 us,  1,0 sy,  0,0 ni,  2,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1759,8 free,   1477,0 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2061,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18178 anna      20   0   64252   2152   1280 R  80,0   0,1   0:07.23 stress-+
+  18179 anna      20   0   64252   2152   1280 R  68,0   0,1   0:07.08 stress-+
+  18186 anna      20   0   64252   2024   1152 R  67,0   0,1   0:07.70 stress-+
+  18185 anna      20   0   64252   2152   1280 R  66,0   0,1   0:06.38 stress-+
+  18187 anna      20   0   64252   2152   1280 R  57,0   0,1   0:06.61 stress-+
+  18188 anna      20   0   64252   2024   1152 R  57,0   0,1   0:06.55 stress-+
+  18180 anna      20   0   64252   2152   1280 R  53,0   0,1   0:07.24 stress-+
+  18182 anna      20   0   64252   2152   1280 R  50,0   0,1   0:07.32 stress-+
+  18183 anna      20   0   64252   2152   1280 R  50,0   0,1   0:07.33 stress-+
+  18184 anna      20   0   64252   2024   1152 R  50,0   0,1   0:06.45 stress-+
+  18177 anna      20   0   64252   2152   1280 R  49,0   0,1   0:07.78 stress-+
+  18181 anna      20   0   64252   2152   1280 R  49,0   0,1   0:06.53 stress-+
+
+top - 15:35:49 up  2:26,  1 user,  load average: 10,69, 7,15, 4,75
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 98,2 us,  1,0 sy,  0,0 ni,  0,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1759,8 free,   1477,0 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2061,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18180 anna      20   0   64252   2152   1280 R  84,0   0,1   0:08.08 stress-+
+  18184 anna      20   0   64252   2024   1152 R  71,0   0,1   0:07.16 stress-+
+  18187 anna      20   0   64252   2152   1280 R  70,0   0,1   0:07.31 stress-+
+  18188 anna      20   0   64252   2024   1152 R  68,0   0,1   0:07.23 stress-+
+  18185 anna      20   0   64252   2152   1280 R  61,0   0,1   0:06.99 stress-+
+  18179 anna      20   0   64252   2152   1280 R  55,0   0,1   0:07.63 stress-+
+  18178 anna      20   0   64252   2152   1280 R  51,0   0,1   0:07.74 stress-+
+  18186 anna      20   0   64252   2024   1152 R  51,0   0,1   0:08.21 stress-+
+  18177 anna      20   0   64252   2152   1280 R  50,0   0,1   0:08.28 stress-+
+  18182 anna      20   0   64252   2152   1280 R  50,0   0,1   0:07.82 stress-+
+  18181 anna      20   0   64252   2152   1280 R  49,0   0,1   0:07.02 stress-+
+  18183 anna      20   0   64252   2152   1280 R  49,0   0,1   0:07.82 stress-+
+
+top - 15:35:50 up  2:26,  1 user,  load average: 10,69, 7,15, 4,75
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,8 us,  0,7 sy,  0,0 ni,  2,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,9 free,   1478,0 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18180 anna      20   0   64252   2152   1280 R  84,0   0,1   0:08.92 stress-+
+  18179 anna      20   0   64252   2152   1280 R  82,0   0,1   0:08.45 stress-+
+  18177 anna      20   0   64252   2152   1280 R  64,0   0,1   0:08.92 stress-+
+  18183 anna      20   0   64252   2152   1280 R  64,0   0,1   0:08.46 stress-+
+  18187 anna      20   0   64252   2152   1280 R  57,0   0,1   0:07.88 stress-+
+  18181 anna      20   0   64252   2152   1280 R  52,0   0,1   0:07.54 stress-+
+  18188 anna      20   0   64252   2024   1152 R  50,0   0,1   0:07.73 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,0   0,1   0:08.31 stress-+
+  18184 anna      20   0   64252   2024   1152 R  49,0   0,1   0:07.65 stress-+
+  18178 anna      20   0   64252   2152   1280 R  47,0   0,1   0:08.21 stress-+
+  18186 anna      20   0   64252   2024   1152 R  47,0   0,1   0:08.68 stress-+
+  18185 anna      20   0   64252   2152   1280 R  45,0   0,1   0:07.44 stress-+
+
+top - 15:35:51 up  2:26,  1 user,  load average: 10,69, 7,15, 4,75
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,2 us,  0,5 sy,  0,0 ni,  3,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,9 free,   1478,0 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18180 anna      20   0   64252   2152   1280 R  88,0   0,1   0:09.80 stress-+
+  18187 anna      20   0   64252   2152   1280 R  75,0   0,1   0:08.63 stress-+
+  18188 anna      20   0   64252   2024   1152 R  69,0   0,1   0:08.42 stress-+
+  18181 anna      20   0   64252   2152   1280 R  66,0   0,1   0:08.20 stress-+
+  18179 anna      20   0   64252   2152   1280 R  53,0   0,1   0:08.98 stress-+
+  18185 anna      20   0   64252   2152   1280 R  51,0   0,1   0:07.95 stress-+
+  18177 anna      20   0   64252   2152   1280 R  50,0   0,1   0:09.42 stress-+
+  18178 anna      20   0   64252   2152   1280 R  50,0   0,1   0:08.71 stress-+
+  18183 anna      20   0   64252   2152   1280 R  50,0   0,1   0:08.96 stress-+
+  18186 anna      20   0   64252   2024   1152 R  50,0   0,1   0:09.18 stress-+
+  18184 anna      20   0   64252   2024   1152 R  49,0   0,1   0:08.14 stress-+
+  18182 anna      20   0   64252   2152   1280 R  48,0   0,1   0:08.79 stress-+
+
+top - 15:35:52 up  2:26,  1 user,  load average: 10,88, 7,25, 4,79
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,7 us,  0,6 sy,  0,0 ni,  2,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,9 free,   1478,0 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18180 anna      20   0   64252   2152   1280 R  83,0   0,1   0:10.63 stress-+
+  18181 anna      20   0   64252   2152   1280 R  72,0   0,1   0:08.92 stress-+
+  18177 anna      20   0   64252   2152   1280 R  67,0   0,1   0:10.09 stress-+
+  18187 anna      20   0   64252   2152   1280 R  66,0   0,1   0:09.29 stress-+
+  18179 anna      20   0   64252   2152   1280 R  60,0   0,1   0:09.58 stress-+
+  18184 anna      20   0   64252   2024   1152 R  58,0   0,1   0:08.72 stress-+
+  18183 anna      20   0   64252   2152   1280 R  50,0   0,1   0:09.46 stress-+
+  18186 anna      20   0   64252   2024   1152 R  50,0   0,1   0:09.68 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,0   0,1   0:09.28 stress-+
+  18178 anna      20   0   64252   2152   1280 R  48,0   0,1   0:09.19 stress-+
+  18185 anna      20   0   64252   2152   1280 R  48,0   0,1   0:08.43 stress-+
+  18188 anna      20   0   64252   2024   1152 R  48,0   0,1   0:08.90 stress-+
+
+top - 15:35:53 up  2:26,  1 user,  load average: 10,88, 7,25, 4,79
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 95,5 us,  0,9 sy,  0,0 ni,  3,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,4 free,   1478,5 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18181 anna      20   0   64252   2152   1280 R  77,0   0,1   0:09.69 stress-+
+  18180 anna      20   0   64252   2152   1280 R  75,0   0,1   0:11.38 stress-+
+  18186 anna      20   0   64252   2024   1152 R  63,0   0,1   0:10.31 stress-+
+  18187 anna      20   0   64252   2152   1280 R  59,0   0,1   0:09.88 stress-+
+  18183 anna      20   0   64252   2152   1280 R  57,0   0,1   0:10.03 stress-+
+  18184 anna      20   0   64252   2024   1152 R  57,0   0,1   0:09.29 stress-+
+  18179 anna      20   0   64252   2152   1280 R  51,0   0,1   0:10.09 stress-+
+  18182 anna      20   0   64252   2152   1280 R  51,0   0,1   0:09.79 stress-+
+  18178 anna      20   0   64252   2152   1280 R  50,0   0,1   0:09.69 stress-+
+  18188 anna      20   0   64252   2024   1152 R  50,0   0,1   0:09.40 stress-+
+  18177 anna      20   0   64252   2152   1280 R  48,0   0,1   0:10.57 stress-+
+  18185 anna      20   0   64252   2152   1280 R  48,0   0,1   0:08.91 stress-+
+
+top - 15:35:54 up  2:26,  1 user,  load average: 10,88, 7,25, 4,79
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,1 us,  0,8 sy,  0,0 ni,  3,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,4 free,   1478,5 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18188 anna      20   0   64252   2024   1152 R  86,0   0,1   0:10.26 stress-+
+  18179 anna      20   0   64252   2152   1280 R  71,0   0,1   0:10.80 stress-+
+  18177 anna      20   0   64252   2152   1280 R  68,0   0,1   0:11.25 stress-+
+  18178 anna      20   0   64252   2152   1280 R  60,0   0,1   0:10.29 stress-+
+  18187 anna      20   0   64252   2152   1280 R  56,0   0,1   0:10.44 stress-+
+  18180 anna      20   0   64252   2152   1280 R  52,0   0,1   0:11.90 stress-+
+  18181 anna      20   0   64252   2152   1280 R  50,0   0,1   0:10.19 stress-+
+  18182 anna      20   0   64252   2152   1280 R  50,0   0,1   0:10.29 stress-+
+  18183 anna      20   0   64252   2152   1280 R  49,0   0,1   0:10.52 stress-+
+  18185 anna      20   0   64252   2152   1280 R  45,0   0,1   0:09.36 stress-+
+  18186 anna      20   0   64252   2024   1152 R  44,0   0,1   0:10.75 stress-+
+  18184 anna      20   0   64252   2024   1152 R  43,0   0,1   0:09.72 stress-+
+
+top - 15:35:55 up  2:26,  1 user,  load average: 10,88, 7,25, 4,79
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 94,9 us,  1,3 sy,  0,0 ni,  3,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,4 free,   1478,5 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18178 anna      20   0   64252   2152   1280 R  85,1   0,1   0:11.15 stress-+
+  18188 anna      20   0   64252   2024   1152 R  67,3   0,1   0:10.94 stress-+
+  18177 anna      20   0   64252   2152   1280 R  64,4   0,1   0:11.90 stress-+
+  18181 anna      20   0   64252   2152   1280 R  58,4   0,1   0:10.78 stress-+
+  18180 anna      20   0   64252   2152   1280 R  57,4   0,1   0:12.48 stress-+
+  18185 anna      20   0   64252   2152   1280 R  55,4   0,1   0:09.92 stress-+
+  18186 anna      20   0   64252   2024   1152 R  52,5   0,1   0:11.28 stress-+
+  18183 anna      20   0   64252   2152   1280 R  50,5   0,1   0:11.03 stress-+
+  18179 anna      20   0   64252   2152   1280 R  49,5   0,1   0:11.30 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,5   0,1   0:10.79 stress-+
+  18187 anna      20   0   64252   2152   1280 R  48,5   0,1   0:10.93 stress-+
+  18184 anna      20   0   64252   2024   1152 R  46,5   0,1   0:10.19 stress-+
+
+top - 15:35:56 up  2:26,  1 user,  load average: 10,88, 7,25, 4,79
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,8 us,  1,0 sy,  0,0 ni,  2,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,7 free,   1478,1 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18181 anna      20   0   64252   2152   1280 R  78,0   0,1   0:11.56 stress-+
+  18177 anna      20   0   64252   2152   1280 R  76,0   0,1   0:12.66 stress-+
+  18185 anna      20   0   64252   2152   1280 R  75,0   0,1   0:10.67 stress-+
+  18186 anna      20   0   64252   2024   1152 R  71,0   0,1   0:11.99 stress-+
+  18178 anna      20   0   64252   2152   1280 R  57,0   0,1   0:11.72 stress-+
+  18184 anna      20   0   64252   2024   1152 R  51,0   0,1   0:10.70 stress-+
+  18180 anna      20   0   64252   2152   1280 R  50,0   0,1   0:12.98 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,0   0,1   0:11.28 stress-+
+  18187 anna      20   0   64252   2152   1280 R  49,0   0,1   0:11.42 stress-+
+  18179 anna      20   0   64252   2152   1280 R  48,0   0,1   0:11.78 stress-+
+  18183 anna      20   0   64252   2152   1280 R  48,0   0,1   0:11.51 stress-+
+  18188 anna      20   0   64252   2024   1152 R  48,0   0,1   0:11.42 stress-+
+
+top - 15:35:57 up  2:26,  1 user,  load average: 10,97, 7,33, 4,83
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 95,5 us,  1,0 sy,  0,0 ni,  3,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,7 free,   1478,1 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18185 anna      20   0   64252   2152   1280 R  81,0   0,1   0:11.48 stress-+
+  18178 anna      20   0   64252   2152   1280 R  71,0   0,1   0:12.43 stress-+
+  18180 anna      20   0   64252   2152   1280 R  64,0   0,1   0:13.62 stress-+
+  18187 anna      20   0   64252   2152   1280 R  60,0   0,1   0:12.02 stress-+
+  18177 anna      20   0   64252   2152   1280 R  54,0   0,1   0:13.20 stress-+
+  18179 anna      20   0   64252   2152   1280 R  50,0   0,1   0:12.28 stress-+
+  18181 anna      20   0   64252   2152   1280 R  49,0   0,1   0:12.05 stress-+
+  18182 anna      20   0   64252   2152   1280 R  49,0   0,1   0:11.77 stress-+
+  18186 anna      20   0   64252   2024   1152 R  48,0   0,1   0:12.47 stress-+
+  18184 anna      20   0   64252   2024   1152 R  47,0   0,1   0:11.17 stress-+
+  18188 anna      20   0   64252   2024   1152 R  47,0   0,1   0:11.89 stress-+
+  18183 anna      20   0   64252   2152   1280 R  46,0   0,1   0:11.97 stress-+
+
+top - 15:35:58 up  2:26,  1 user,  load average: 10,97, 7,33, 4,83
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,6 us,  1,0 sy,  0,0 ni,  2,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,7 free,   1478,1 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18187 anna      20   0   64252   2152   1280 R  74,0   0,1   0:12.76 stress-+
+  18183 anna      20   0   64252   2152   1280 R  71,0   0,1   0:12.68 stress-+
+  18185 anna      20   0   64252   2152   1280 R  71,0   0,1   0:12.19 stress-+
+  18178 anna      20   0   64252   2152   1280 R  65,0   0,1   0:13.08 stress-+
+  18184 anna      20   0   64252   2024   1152 R  61,0   0,1   0:11.78 stress-+
+  18181 anna      20   0   64252   2152   1280 R  55,0   0,1   0:12.60 stress-+
+  18179 anna      20   0   64252   2152   1280 R  48,0   0,1   0:12.76 stress-+
+  18186 anna      20   0   64252   2024   1152 R  48,0   0,1   0:12.95 stress-+
+  18180 anna      20   0   64252   2152   1280 R  47,0   0,1   0:14.09 stress-+
+  18182 anna      20   0   64252   2152   1280 R  47,0   0,1   0:12.24 stress-+
+  18177 anna      20   0   64252   2152   1280 R  46,0   0,1   0:13.66 stress-+
+  18188 anna      20   0   64252   2024   1152 R  46,0   0,1   0:12.35 stress-+
+
+top - 15:35:59 up  2:26,  1 user,  load average: 10,97, 7,33, 4,83
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,5 us,  0,9 sy,  0,0 ni,  2,6 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,1 free,   1478,7 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18184 anna      20   0   64252   2024   1152 R  85,0   0,1   0:12.63 stress-+
+  18178 anna      20   0   64252   2152   1280 R  74,0   0,1   0:13.82 stress-+
+  18186 anna      20   0   64252   2024   1152 R  72,0   0,1   0:13.67 stress-+
+  18185 anna      20   0   64252   2152   1280 R  61,0   0,1   0:12.80 stress-+
+  18183 anna      20   0   64252   2152   1280 R  55,0   0,1   0:13.23 stress-+
+  18177 anna      20   0   64252   2152   1280 R  50,0   0,1   0:14.16 stress-+
+  18179 anna      20   0   64252   2152   1280 R  50,0   0,1   0:13.26 stress-+
+  18180 anna      20   0   64252   2152   1280 R  50,0   0,1   0:14.59 stress-+
+  18182 anna      20   0   64252   2152   1280 R  50,0   0,1   0:12.74 stress-+
+  18181 anna      20   0   64252   2152   1280 R  49,0   0,1   0:13.09 stress-+
+  18187 anna      20   0   64252   2152   1280 R  49,0   0,1   0:13.25 stress-+
+  18188 anna      20   0   64252   2024   1152 R  49,0   0,1   0:12.84 stress-+
+
+top - 15:36:00 up  2:26,  1 user,  load average: 10,97, 7,33, 4,83
+Tasks:  12 total,  12 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 94,3 us,  1,1 sy,  0,0 ni,  4,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1758,1 free,   1478,7 used,    669,3 buff/cache
+MiB Swap:   2630,0 total,   1419,0 free,   1211,0 used.   2060,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  18184 anna      20   0   64252   2024   1152 R  85,0   0,1   0:13.48 stress-+
+  18187 anna      20   0   64252   2152   1280 R  71,0   0,1   0:13.96 stress-+
+  18186 anna      20   0   64252   2024   1152 R  67,0   0,1   0:14.34 stress-+
+  18181 anna      20   0   64252   2152   1280 R  63,0   0,1   0:13.72 stress-+
+  18188 anna      20   0   64252   2024   1152 R  50,0   0,1   0:13.34 stress-+
+  18185 anna      20   0   64252   2152   1280 R  49,0   0,1   0:13.29 stress-+
+  18177 anna      20   0   64252   2152   1280 R  48,0   0,1   0:14.64 stress-+
+  18178 anna      20   0   64252   2152   1280 R  48,0   0,1   0:14.30 stress-+
+  18182 anna      20   0   64252   2152   1280 R  48,0   0,1   0:13.22 stress-+
+  18180 anna      20   0   64252   2152   1280 R  47,0   0,1   0:15.06 stress-+
+  18183 anna      20   0   64252   2152   1280 R  47,0   0,1   0:13.70 stress-+
+  18179 anna      20   0   64252   2152   1280 R  44,0   0,1   0:13.70 stress-+

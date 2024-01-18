@@ -1,0 +1,8 @@
+top - 14:03:08 up 53 min,  1 user,  load average: 1,60, 1,77, 1,66
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 36,7 us,  0,8 sy,  0,0 ni, 62,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,    235,9 free,   2849,4 used,    820,9 buff/cache
+MiB Swap:   2630,0 total,   1935,4 free,    694,6 used.    593,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   6640 anna      20   0   64224   8320   7552 S   0,0   0,2   0:00.00 stress-+

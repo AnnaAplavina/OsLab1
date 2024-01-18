@@ -1,0 +1,569 @@
+top - 00:21:00 up 21 min,  1 user,  load average: 9,28, 6,55, 3,75
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96,6 us,  3,4 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1476,8 free,    960,7 used,   1468,7 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2664,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3029 anna      20   0   64240   2016   1280 R 100,0   0,1   2:00.18 stress-ng
+   3030 anna      20   0   64240   2016   1280 R 100,0   0,1   2:04.80 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  93,3   0,1   2:00.45 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  93,3   0,1   2:01.40 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  86,7   0,0   2:01.40 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  80,0   0,1   2:02.29 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  73,3   0,1   2:05.63 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  53,3   0,1   1:57.06 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  53,3   0,1   1:56.57 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  53,3   0,1   2:00.37 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:03 up 21 min,  1 user,  load average: 9,28, 6,55, 3,75
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,1 us,  0,3 sy,  0,1 ni,  0,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1468,7 free,    968,6 used,   1468,8 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2656,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3031 anna      20   0   64240   2016   1280 R  92,0   0,1   2:05.06 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  86,0   0,1   2:03.99 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  85,0   0,1   2:02.74 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  85,0   0,0   2:03.96 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  84,4   0,1   2:08.17 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  78,7   0,1   2:07.17 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  75,7   0,1   2:02.73 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  74,4   0,1   1:59.30 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  54,5   0,1   2:02.01 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  48,8   0,1   1:58.04 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:06 up 21 min,  1 user,  load average: 9,33, 6,61, 3,78
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,8 us,  0,1 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1467,5 free,    969,7 used,   1468,9 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2655,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3034 anna      20   0   64240   2016   1280 R  94,3   0,1   2:06.82 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  83,7   0,1   2:01.81 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  83,7   0,0   2:06.47 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  81,7   0,1   2:05.19 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  80,7   0,1   2:07.48 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  79,7   0,1   2:10.56 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  76,0   0,1   2:04.29 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  74,7   0,1   2:04.97 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  71,0   0,1   2:00.17 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  66,0   0,1   2:09.15 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:09 up 21 min,  1 user,  load average: 9,33, 6,61, 3,78
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,1 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1467,0 free,    970,1 used,   1469,1 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2655,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3029 anna      20   0   64240   2016   1280 R  91,3   0,1   2:07.93 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  90,0   0,1   2:07.67 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  90,0   0,1   2:02.87 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  88,0   0,1   2:11.79 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  83,7   0,1   2:09.33 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  76,0   0,1   2:04.09 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  75,7   0,1   2:09.75 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  75,3   0,0   2:08.73 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  69,0   0,1   2:12.63 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  58,3   0,1   2:06.04 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:12 up 21 min,  1 user,  load average: 9,39, 6,66, 3,81
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,5 us,  0,0 sy,  0,0 ni,  0,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1466,5 free,    970,3 used,   1469,3 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2655,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3030 anna      20   0   64240   2016   1280 R  92,3   0,1   2:14.56 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  91,3   0,1   2:12.49 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  90,7   0,1   2:10.39 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  89,0   0,1   2:08.71 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  88,7   0,1   2:10.59 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  87,7   0,0   2:11.36 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  73,3   0,1   2:05.07 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  71,7   0,1   2:14.78 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  55,7   0,1   2:05.76 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  55,3   0,1   2:10.99 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:15 up 21 min,  1 user,  load average: 9,60, 6,75, 3,86
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,1 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1466,5 free,    970,2 used,   1469,4 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2655,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3028 anna      20   0   64240   2016   1280 R  92,7   0,1   2:08.55 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  92,0   0,1   2:11.48 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  90,7   0,1   2:13.12 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  87,7   0,1   2:13.63 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  83,7   0,0   2:13.88 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  82,4   0,1   2:17.04 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  82,1   0,1   2:14.96 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  81,1   0,1   2:13.03 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  49,8   0,1   2:06.57 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  49,8   0,1   2:16.28 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:18 up 21 min,  1 user,  load average: 9,60, 6,75, 3,86
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,5 us,  0,4 sy,  0,0 ni,  0,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1466,0 free,    970,6 used,   1469,5 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2654,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3036 anna      20   0   64240   2016   1280 R  90,0   0,1   2:14.18 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  82,7   0,1   2:19.52 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  80,0   0,1   2:16.03 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  79,0   0,1   2:15.40 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  78,0   0,0   2:16.22 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  77,0   0,1   2:17.27 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  75,0   0,1   2:10.80 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  72,7   0,1   2:15.30 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  68,3   0,1   2:18.33 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  49,7   0,1   2:08.06 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:21 up 21 min,  1 user,  load average: 10,03, 6,89, 3,92
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,5 us,  0,5 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1465,5 free,    970,9 used,   1469,7 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2654,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 anna      20   0   64240   1888   1152 R  89,0   0,0   2:18.89 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  87,3   0,1   2:16.80 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  84,3   0,1   2:22.05 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  83,3   0,1   2:17.90 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  75,7   0,1   2:19.54 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  75,7   0,1   2:20.60 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  73,3   0,1   2:18.23 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  73,0   0,1   2:12.99 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  70,3   0,1   2:17.41 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  56,7   0,1   2:09.76 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:24 up 21 min,  1 user,  load average: 10,03, 6,89, 3,92
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,8 us,  0,0 sy,  0,0 ni,  0,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1465,1 free,    971,2 used,   1469,9 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2654,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 anna      20   0   64240   1888   1152 R  93,4   0,0   2:21.70 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  89,7   0,1   2:23.30 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  87,4   0,1   2:24.68 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  86,7   0,1   2:22.15 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  85,0   0,1   2:12.32 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  84,7   0,1   2:20.45 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  78,7   0,1   2:19.17 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  75,1   0,1   2:19.67 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  58,8   0,1   2:14.76 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  56,1   0,1   2:19.92 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:27 up 21 min,  1 user,  load average: 10,03, 6,94, 3,95
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,1 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,8 free,    971,4 used,   1470,0 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2654,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 anna      20   0   64240   1888   1152 R  93,3   0,0   2:24.50 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  90,3   0,1   2:24.86 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  90,0   0,1   2:23.15 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  90,0   0,1   2:27.38 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  86,3   0,1   2:14.91 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  79,3   0,1   2:17.14 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  73,0   0,1   2:22.11 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  71,7   0,1   2:21.32 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  66,3   0,1   2:25.29 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  56,3   0,1   2:21.36 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:30 up 21 min,  1 user,  load average: 10,11, 7,01, 3,99
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 98,7 us,  1,1 sy,  0,0 ni,  0,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,6 free,    971,6 used,   1470,0 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 anna      20   0   64240   1888   1152 R  95,0   0,0   2:27.35 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  93,7   0,1   2:17.72 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  91,3   0,1   2:24.85 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  88,3   0,1   2:30.03 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  84,7   0,1   2:19.68 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  75,3   0,1   2:23.62 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  74,3   0,1   2:25.38 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  74,3   0,1   2:27.09 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  60,0   0,1   2:27.09 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  59,3   0,1   2:23.10 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:33 up 22 min,  1 user,  load average: 10,11, 7,01, 3,99
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,7 us,  0,1 sy,  0,0 ni,  0,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,3 free,    971,8 used,   1470,0 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3032 anna      20   0   64240   2016   1280 R  96,3   0,1   2:20.62 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  89,7   0,0   2:30.05 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  89,0   0,1   2:32.71 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  87,4   0,1   2:25.73 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  83,7   0,1   2:27.37 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  81,4   0,1   2:22.13 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  80,1   0,1   2:26.03 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  75,4   0,1   2:29.36 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  56,1   0,1   2:27.07 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  56,1   0,1   2:28.78 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:36 up 22 min,  1 user,  load average: 10,10, 7,06, 4,02
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100,0 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,3 free,    971,8 used,   1470,1 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3036 anna      20   0   64240   2016   1280 R  92,7   0,1   2:28.51 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  91,3   0,1   2:24.87 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  89,7   0,1   2:31.47 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  86,7   0,1   2:23.22 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  85,3   0,0   2:32.61 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  82,3   0,1   2:35.18 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  76,3   0,1   2:29.66 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  76,0   0,1   2:31.64 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  61,7   0,1   2:27.88 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  56,7   0,1   2:28.77 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:39 up 22 min,  1 user,  load average: 10,10, 7,06, 4,02
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,1 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,3 free,    971,7 used,   1470,1 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3028 anna      20   0   64240   2016   1280 R  95,7   0,1   2:27.74 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  93,7   0,1   2:30.69 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  91,0   0,1   2:34.20 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  86,0   0,1   2:37.76 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  85,3   0,1   2:32.22 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  76,7   0,0   2:34.91 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  76,3   0,1   2:33.93 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  72,3   0,1   2:30.68 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  61,0   0,1   2:30.60 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  61,0   0,1   2:25.05 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:42 up 22 min,  1 user,  load average: 10,09, 7,11, 4,05
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,1 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,3 free,    971,7 used,   1470,1 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3036 anna      20   0   64240   2016   1280 R  93,7   0,1   2:33.50 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  88,7   0,1   2:33.36 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  83,7   0,1   2:33.12 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  80,1   0,0   2:37.32 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  77,7   0,1   2:40.10 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  77,1   0,1   2:30.06 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  75,7   0,1   2:36.21 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  74,1   0,1   2:27.28 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  73,4   0,1   2:34.43 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  72,4   0,1   2:36.38 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:45 up 22 min,  1 user,  load average: 10,24, 7,19, 4,10
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,1 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,1 free,    971,9 used,   1470,2 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3032 anna      20   0   64240   2016   1280 R  93,7   0,1   2:30.09 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  91,7   0,1   2:35.87 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  90,3   0,1   2:37.14 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  88,3   0,1   2:32.71 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  86,0   0,1   2:42.68 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  86,0   0,1   2:36.08 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  76,7   0,1   2:38.51 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  74,7   0,0   2:39.56 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  57,0   0,1   2:38.09 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  51,3   0,1   2:34.90 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:48 up 22 min,  1 user,  load average: 10,24, 7,19, 4,10
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,6 us,  0,0 sy,  0,0 ni,  0,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1464,1 free,    971,8 used,   1470,2 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3036 anna      20   0   64240   2016   1280 R  93,0   0,1   2:38.87 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  92,7   0,1   2:41.29 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  90,7   0,1   2:39.86 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  88,7   0,1   2:45.34 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  84,3   0,1   2:35.24 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  82,7   0,1   2:40.57 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  68,7   0,1   2:37.93 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  66,3   0,0   2:41.55 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  65,3   0,1   2:36.86 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  65,3   0,1   2:32.05 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:51 up 22 min,  1 user,  load average: 10,22, 7,24, 4,13
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,5 us,  0,1 sy,  0,0 ni,  0,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1463,9 free,    972,1 used,   1470,2 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3030 anna      20   0   64240   2016   1280 R  93,0   0,1   2:48.14 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  88,4   0,1   2:40.59 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  88,4   0,1   2:43.23 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  88,0   0,1   2:42.51 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  87,4   0,1   2:43.92 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  83,1   0,1   2:34.55 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  77,7   0,1   2:37.58 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  72,8   0,1   2:41.06 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  58,1   0,0   2:43.30 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  55,8   0,1   2:38.54 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:54 up 22 min,  1 user,  load average: 10,22, 7,24, 4,13
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1463,6 free,    972,2 used,   1470,3 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2653,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3032 anna      20   0   64240   2016   1280 R  90,3   0,1   2:37.26 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  88,3   0,1   2:50.79 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  88,0   0,1   2:41.18 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  88,0   0,1   2:45.87 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  86,0   0,0   2:45.88 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  79,0   0,1   2:46.29 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  76,0   0,1   2:42.87 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  75,0   0,1   2:44.76 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  72,7   0,1   2:43.24 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  56,7   0,1   2:39.28 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:21:57 up 22 min,  1 user,  load average: 10,20, 7,28, 4,16
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100,0 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1463,4 free,    972,4 used,   1470,3 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2652,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3035 anna      20   0   64240   1888   1152 R  94,4   0,0   2:48.72 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  91,7   0,1   2:48.63 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  88,0   0,1   2:39.91 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  87,4   0,1   2:43.81 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  86,7   0,1   2:45.85 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  85,7   0,1   2:48.87 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  84,1   0,1   2:41.81 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  80,7   0,1   2:53.22 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  50,2   0,1   2:44.38 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  49,8   0,1   2:46.26 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:00 up 22 min,  1 user,  load average: 10,35, 7,36, 4,20
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,8 us,  0,1 sy,  0,0 ni,  0,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1463,1 free,    972,7 used,   1470,4 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2652,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3028 anna      20   0   64240   2016   1280 R  93,7   0,1   2:44.62 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  93,3   0,1   2:51.67 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  91,3   0,1   2:46.55 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  88,3   0,1   2:51.28 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  88,0   0,1   2:42.55 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  83,7   0,1   2:48.36 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  81,7   0,1   2:55.67 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  78,3   0,0   2:51.07 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  50,3   0,1   2:45.89 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  50,0   0,1   2:47.76 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:03 up 22 min,  1 user,  load average: 10,35, 7,36, 4,20
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1462,9 free,    972,9 used,   1470,4 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2652,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3031 anna      20   0   64240   2016   1280 R  93,7   0,1   2:54.10 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  91,7   0,0   2:53.83 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  90,4   0,1   2:58.39 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  87,4   0,1   2:45.18 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  87,0   0,1   2:49.17 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  85,7   0,1   2:47.20 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  75,4   0,1   2:50.63 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  74,4   0,1   2:53.91 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  55,8   0,1   2:47.57 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  54,8   0,1   2:49.41 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:06 up 22 min,  1 user,  load average: 10,32, 7,40, 4,23
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,7 us,  0,0 sy,  0,0 ni,  0,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1462,6 free,    973,1 used,   1470,4 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2652,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3033 anna      20   0   64240   2016   1280 R  94,7   0,1   2:56.75 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  90,3   0,1   2:52.12 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  90,0   0,1   2:50.27 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  89,3   0,1   2:47.86 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  89,3   0,1   2:53.31 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  83,3   0,1   2:56.60 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  81,7   0,1   3:00.84 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  79,0   0,0   2:56.20 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  50,3   0,1   2:48.71 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  49,7   0,1   2:50.66 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:09 up 22 min,  1 user,  load average: 10,32, 7,40, 4,23
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,5 us,  0,0 sy,  0,1 ni,  0,4 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1462,6 free,    973,1 used,   1470,4 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2652,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3033 anna      20   0   64240   2016   1280 R  92,3   0,1   2:59.52 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  91,3   0,1   3:03.58 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  88,3   0,1   2:50.51 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  88,3   0,0   2:58.85 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  88,0   0,1   2:59.24 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  86,3   0,1   2:52.86 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  76,3   0,1   2:52.95 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  74,3   0,1   2:50.94 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  55,7   0,1   2:54.98 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  55,3   0,1   2:53.78 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:12 up 22 min,  1 user,  load average: 10,29, 7,45, 4,27
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1462,6 free,    973,0 used,   1470,5 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2652,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3031 anna      20   0   64240   2016   1280 R  91,0   0,1   3:01.97 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  91,0   0,1   3:02.25 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  90,3   0,1   2:56.49 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  86,3   0,1   2:57.57 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  86,0   0,1   3:06.16 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  85,3   0,0   3:01.41 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  85,0   0,1   2:55.50 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  83,7   0,1   2:53.02 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  50,3   0,1   2:54.37 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  49,7   0,1   2:52.43 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:15 up 22 min,  1 user,  load average: 10,27, 7,49, 4,30
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100,0 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1462,6 free,    973,0 used,   1470,5 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2652,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3030 anna      20   0   64240   2016   1280 R  93,7   0,1   3:08.98 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  89,0   0,1   2:55.70 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  89,0   0,1   2:59.17 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  84,4   0,1   3:04.79 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  84,1   0,1   3:00.10 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  79,4   0,1   3:04.36 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  79,1   0,1   2:57.88 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  76,7   0,0   3:03.72 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  63,1   0,1   2:54.33 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  58,5   0,1   2:56.13 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:18 up 22 min,  1 user,  load average: 10,27, 7,49, 4,30
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100,0 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1461,9 free,    973,7 used,   1470,5 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2651,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3032 anna      20   0   64240   2016   1280 R  94,0   0,1   2:58.52 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  90,7   0,1   3:07.51 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  90,0   0,1   2:57.03 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  85,3   0,1   3:00.44 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  82,7   0,1   3:01.65 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  82,7   0,1   3:02.58 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  80,7   0,1   3:11.40 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  77,7   0,1   2:58.46 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  58,7   0,0   3:05.48 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  56,7   0,1   3:06.06 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:21 up 22 min,  1 user,  load average: 10,25, 7,53, 4,33
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100,0 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1461,9 free,    973,7 used,   1470,6 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2651,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3036 anna      20   0   64240   2016   1280 R  91,4   0,1   3:05.33 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  89,4   0,1   3:08.75 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  88,4   0,1   3:01.18 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  86,4   0,1   3:14.00 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  82,7   0,1   2:59.52 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  79,4   0,1   3:02.83 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  79,1   0,1   3:04.03 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  74,8   0,1   3:00.71 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  64,5   0,1   3:09.45 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  61,1   0,0   3:07.32 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:24 up 22 min,  1 user,  load average: 10,25, 7,53, 4,33
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,9 us,  0,0 sy,  0,0 ni,  0,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1461,1 free,    974,4 used,   1470,6 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2651,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3033 anna      20   0   64240   2016   1280 R  92,3   0,1   3:12.22 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  90,0   0,1   3:08.03 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  89,3   0,1   3:06.71 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  88,7   0,0   3:09.98 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  87,0   0,1   3:11.36 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  82,0   0,1   3:05.29 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  79,7   0,1   3:03.10 stress-ng
+   3028 anna      20   0   64240   2016   1280 R  77,7   0,1   3:01.85 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  56,7   0,1   3:15.70 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  56,3   0,1   3:02.87 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
+
+top - 00:22:27 up 22 min,  1 user,  load average: 10,23, 7,57, 4,36
+Tasks:  11 total,  10 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 99,8 us,  0,1 sy,  0,0 ni,  0,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   3906,1 total,   1460,7 free,    974,8 used,   1470,6 buff/cache
+MiB Swap:   2630,0 total,   2630,0 free,      0,0 used.   2650,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3028 anna      20   0   64240   2016   1280 R  93,0   0,1   3:04.64 stress-ng
+   3029 anna      20   0   64240   2016   1280 R  89,7   0,1   3:05.79 stress-ng
+   3027 anna      20   0   64240   2016   1280 R  88,3   0,1   3:07.94 stress-ng
+   3034 anna      20   0   64240   2016   1280 R  85,3   0,1   3:09.27 stress-ng
+   3036 anna      20   0   64240   2016   1280 R  82,7   0,1   3:10.51 stress-ng
+   3031 anna      20   0   64240   2016   1280 R  76,0   0,1   3:13.64 stress-ng
+   3033 anna      20   0   64240   2016   1280 R  75,7   0,1   3:14.49 stress-ng
+   3035 anna      20   0   64240   1888   1152 R  72,3   0,0   3:12.15 stress-ng
+   3032 anna      20   0   64240   2016   1280 R  71,7   0,1   3:05.02 stress-ng
+   3030 anna      20   0   64240   2016   1280 R  64,0   0,1   3:17.62 stress-ng
+   3026 anna      20   0   64240   8448   7680 S   0,0   0,2   0:00.00 stress-ng
